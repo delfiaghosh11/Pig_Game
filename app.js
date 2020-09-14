@@ -11,6 +11,7 @@ GAME RULES:
 
 var scores, roundScore, activePlayer, dice, gamePlaying;
 
+// Initialize Elements
 init();
 
 // Roll Dice Button
